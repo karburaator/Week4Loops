@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week4Loops", "Week4Loops\Week4Loops.csproj", "{60AFFD75-FBB5-46F8-958E-DBBBFA59B71E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week4WhileLoop", "Week4WhileLoop\Week4WhileLoop.csproj", "{BE747517-3FD1-4DC2-88ED-ABB509ECF0AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60AFFD75-FBB5-46F8-958E-DBBBFA59B71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60AFFD75-FBB5-46F8-958E-DBBBFA59B71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60AFFD75-FBB5-46F8-958E-DBBBFA59B71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60AFFD75-FBB5-46F8-958E-DBBBFA59B71E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE747517-3FD1-4DC2-88ED-ABB509ECF0AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE747517-3FD1-4DC2-88ED-ABB509ECF0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE747517-3FD1-4DC2-88ED-ABB509ECF0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE747517-3FD1-4DC2-88ED-ABB509ECF0AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09019F14-7C2F-4B04-A68F-9C5B3F95EDA8}
+	EndGlobalSection
+EndGlobal
